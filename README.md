@@ -1,12 +1,8 @@
-# one-test
-this is my first repository
-<html>
-   <head>
-  </head>
-  <body>
-    <div>
-      like this?
-      write a bit about myself
-    </div>
-  </body>
-  </html>
+# flutter_demo
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
